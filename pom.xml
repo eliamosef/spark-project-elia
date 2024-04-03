@@ -82,7 +82,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>fr.mosef.scala.template.Main</mainClass>
+                            <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
@@ -105,7 +105,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/eliamosef/spark-project</url>
+            <url>https://maven.pkg.github.com/eliamosef/spark-project-elia</url>
         </repository>
     </distributionManagement>
 </project>
